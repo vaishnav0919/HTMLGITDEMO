@@ -2,7 +2,7 @@ this is my first git file...!!!
 
 <HTML>
 <HEAD> Hello this is the git demo
-<H1>Welcome Vaishnavsingh Thakur</H1>
+<H1> ***Welcome Vaishnavsingh Thakur*** </H1>
  </HEAD>
 <Body
 	
