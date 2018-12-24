@@ -7,9 +7,9 @@ this is my first git file...!!!
 
  </HEAD>
 <Body
-	Login: <input> </input>
-	Username:
-	Password:
+	<H3>Login:</H3>
+	Username:<input type="text"/>
+	Password:<input type="password"/>
 	Submit:<input type="submit"></input>
 	
 </Body>
